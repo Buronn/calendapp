@@ -1,0 +1,175 @@
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+    
+}
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+@font-face{
+    font-family: "Bulletto Killa";
+    src: url(../fonts/Abel-Regular.ttf);
+}
+body{
+    font-family: Verdana;
+}
+input{
+    font-size: 16vw;
+}
+section{
+    padding: 5vw;
+    box-shadow: inset;
+    max-width: 40vw;
+    text-align: center;
+    margin: auto;
+}
+
+.calendar-background{
+    background-image: url(../images/calendar-background.png);
+    background-size: cover;    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    filter:drop-shadow(0px 4px 50px rgb(255, 255, 255));
+}
+.home-box{
+    max-width: 90%;
+    min-height: 70vw;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.308);
+    border-radius: 2vw;
+}
+.home-box .publicar{
+    padding: 10px;
+    margin: auto;
+    max-width: 80%;
+    background-color: rgba(255, 255, 255, 0.274);
+    border-radius: 1vw;
+}
+.white-container{
+    padding: 30px;
+    margin: auto;
+    max-width: 50%;
+    background-color: white;
+    border-radius: 1.5vw;
+    border-style: ridge;
+}
+.home-box .publicaciones{
+    padding: 10px;
+    margin: auto;
+    max-width: 80%;
+    min-height: 100vh;
+    background-color: rgba(255, 255, 255, 0.274);
+    border-radius: 1vw;
+}
+.profile-pic{
+    display: inline-block;
+    width: 2.5vw;
+    height: 2.5vw;
+    border-radius: 100%;
+    border-style:solid;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.profile-pic-sm{
+    display: inline-block;
+    width: 2.0vw;
+    height: 2.0vw;
+    border-radius: 100%;
+    border-style:solid;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.profile-pic-big{
+    display: inline-block;
+    width: 10vw;
+    height: 10vw;
+    max-width: 10vw;
+    max-height: 10vw;
+    border-radius: 100%;
+    border-style:solid;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.profile-container{
+    margin: 3vw;
+    background-color: white;
+    border-radius: 1.5vw;
+    border-style: ridge;
+}
+
+.black-box{
+    max-width: 70vw;
+    min-height:51.5vw;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.308);
+    border-radius: 2vw;
+}
+.black-box h1{
+    font-size: 4vw;
+    text-align: center;
+    color: black;
+}
+.black-box h2{
+    font-size: 1.5vw;
+    color: black;
+}
+.black-box .pt{
+    padding-top: 1vw;
+}
+.registro{
+    padding-top: 1vw;
+    min-width: 50%;
+    max-width: 60vw;
+    margin: auto;
+    padding-bottom: 1vw;
+}
+.registro option{
+    font-family: "Verdana";
+    font-size: 1.5vw;
+}
+.registro .profile-pic{
+    display: inline-block;
+    min-width: 10vw;
+    min-height: 10vw;
+    max-width: 10vw;
+    max-height: 10vw;
+    width: 10vw;
+    height: 10vw;
+    border-radius: 100%;
+
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.bienvenido .profile-pic{
+    display: inline-block;
+    min-width: 20vw;
+    min-height: 20vw;
+    max-width: 20vw;
+    max-height: 20vw;
+    width: 20vw;
+    height: 20vw;
+    border-radius: 100%;
+
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.center{
+    text-align: center;
+    min-width: 100%;
+}
+.hide{
+    display: none;
+  }
+.comment{
+    text-align: left;
+}

@@ -1,0 +1,86 @@
+Algebra y Geometría
+CBM-1000
+Cálculo I
+CBM-1001
+Química
+CBQ-1000
+Programación
+CIT-1000
+Comunicación para la Ingeniería
+FIC-1000
+Algebra Lineal
+CBM-1002
+Cálculo II
+CBM-1003
+Mecánica
+CBF-1000
+Programación Avanzada
+CIT-1010
+Ecuaciones Diferenciales
+CBM-1005
+Calculo III
+CBM-1006
+Calor y Ondas
+CBF-1001
+Estructuras de datos y algoritmos
+CIT-2006
+Redes de Datos
+CIT-2114
+Probabilidades y Estadística
+CIT-2204
+Electrónica y Electrotecnia
+CIT-2107
+Electricidad y Magnetismo
+CBF-1002
+Bases de Datos
+CIT-2007
+Desarrollo Web y Móvil
+CIT-2008
+Inglés I
+CIG-1012
+Optimización
+CII-2750
+Taller de Redes y Servicios
+CIt-2109
+Proyecto en TICs I
+CIT-2205
+Bases de Datos Avanzadas
+CIT-2009
+Inglés II
+CIG-1013
+Contabilidad y Costos
+CII-1000
+Arq. y Organización de Computadores
+CIT-2109
+Señales y Sistemas
+CIT-2110
+Sistemas Operativos
+CIT-2010
+Inglés III
+CIG-1014
+Gestión Organizacional
+CIT-2206
+Ingeniería de Software
+CIT-2012
+Comunicaciones Digitales
+CIT-2111
+Sistemas Distribuidos
+CIT-2011
+Introducción a la Economía
+CII-2100
+Tecnologías Inalámbricas
+CIT-2112
+Criptografía y Seguridad en Redes
+CIT-2113
+Inteligencia Artificial
+CIT-2013
+Evaluación de Proyectos TIC
+CIT-2207
+Arquitecturas Emergentes
+CIT-3100
+Arquitecturas de Software
+CIT-3000
+Data Science
+CIT-3202
+Proyecto en TICs II
+CIT-3203
